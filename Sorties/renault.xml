@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Concessionnaires>
+  <Nom>Succursale</Nom>
+  <Adresse>Oued Smar</Adresse>
+  <Num_telephone>021 51 37 33</Num_telephone>
+  <Nom>Grand Tourismo Automobiles</Nom>
+  <Adresse>Avenue du 1er Mai</Adresse>
+  <Num_telephone>021 67 63 66</Num_telephone>
+  <Nom>AB Auto</Nom>
+  <Adresse>Route de Larbaa Lot 91B Baraki</Adresse>
+  <Num_telephone>021 53 28 73</Num_telephone>
+  <Nom>Losange</Nom>
+  <Adresse>1 Avenue des Freres Mohand Kaci</Adresse>
+  <Num_telephone>021 56 30 44</Num_telephone>
+  <Nom>Bab El Oued Automobiles</Nom>
+  <Adresse>07 Rue Said Touati Bab El Oued</Adresse>
+  <Num_telephone>021 97 58 82</Num_telephone>
+  <Nom>Salon</Nom>
+  <Adresse>Grand Vent Autoroute Dely Brahim</Adresse>
+  <Num_telephone>021 38 76 86</Num_telephone>
+  <Nom>Rouibauto</Nom>
+  <Adresse>17 AV du 1er Novembre Rouiba</Adresse>
+  <Num_telephone>021 81 42 92</Num_telephone>
+  <Nom>Cima Motors</Nom>
+  <Adresse>Cité Domaine Baranci Route National N05</Adresse>
+  <Num_telephone>021 84 84 93</Num_telephone>
+  <Nom>Z M V</Nom>
+  <Adresse>Zone D’activité N°12 Zeralda</Adresse>
+  <Num_telephone>021 32 57 73</Num_telephone>
+  <Nom>AMC</Nom>
+  <Adresse>404 Avenue Hamid Kebladj El Hammamet</Adresse>
+  <Num_telephone>021 95 97 37</Num_telephone>
+  <Nom>Africars</Nom>
+  <Adresse>06 Rue des anassers Kouba</Adresse>
+  <Num_telephone>021 29 30 19</Num_telephone>
+  <Nom>Direction des Ventes Flottes</Nom>
+  <Adresse>60 A Boulevard Colonel Bougara BP 353 El Biar</Adresse>
+  <Num_telephone>021 92 23 39</Num_telephone>
+  <Nom>Sahli Mohamed</Nom>
+  <Adresse>06 Rue Amar Smaoui Hussein Dey</Adresse>
+  <Num_telephone>021 23 37 17</Num_telephone>
+</Concessionnaires>
